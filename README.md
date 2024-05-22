@@ -7,7 +7,7 @@ RA: 10381629
 _____________________________________________________________________
 ## Link para video explicativo:
 https://youtu.be/Z5D62DMbQpk
-##relatorio
+## relatorio
 
 ### O projeto tem como base mapear todos os pontos de bicicletas e caminhos entre eles (para devolução e aluguel), sejam de serviços públicos como os fornecidos pela prefeitura de SP e privadas como as fornecidas pelo banco Itaú, para facilitar e incentivar o transporte saudável e sustentavel pela cidade de São Paulo, de forma que as bicicletas estejam melhor localizadas e o usuário consiga acessar a mais próxima assim como as empresas posicioná-las melhor.
 ### Nesta primeira etapa foi feito um grafo baseado no arquivo "estações_nomes.txt" que mapea 73 pontos diferentes (com a intenção de mapear mais no futuro), e seus respectivos caminhos entre si. Disponibilizado um grafo abaixo na imagem 1(a partir do site https://graphonline.ru/pt/), juntamente com o arquivo graphml "grafo.xml" Link para acesso: http://graphonline.ru/pt/?graph=LMMgxyYJerOgqbpl .
