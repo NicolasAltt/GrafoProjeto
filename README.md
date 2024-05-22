@@ -17,6 +17,7 @@ Os algoritmos foram feitos com base nos códigos presentes no site “https://ww
 Disponibilizado um grafo  abaixo na imagem 1(a partir do site https://graphonline.ru/pt/), juntamente com o  arquivo graphml "grafo.xml" Link para acesso:  
 http://graphonline.ru/pt/?graph=LMMgxyYJerOgqbpl . 
 
+![image](https://github.com/NicolasAltt/GrafoProjeto/assets/101070201/497d7c96-1396-4080-94bf-ec2cf17db063)
 Figura 1: Grafo modelado
 
 
