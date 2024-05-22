@@ -6,7 +6,7 @@ Aluno: Nicolas Alteia Telles
 RA: 10381629
 _____________________________________________________________________
 ## Link para video explicativo:
-https://youtu.be/Z5D62DMbQpk
+[https://youtu.be/Z5D62DMbQpk](https://youtu.be/_HhO1ENNRv8)
 ## Relatório
 ### Explicação Proposta
 O projeto foi criado para solucionar um problema de logística de outro aplicativo cujo foi criado para juntar todos os aluguéis de bicicleta em São Paulo. Ele tem como base mapear todos os pontos de bicicletas e caminhos  entre eles (para devolução e aluguel), sejam de serviços públicos como os  fornecidos pela prefeitura de SP e privadas como as fornecidas pelo banco Itaú,  para facilitar e incentivar o transporte saudável e sustentável pela cidade de São  Paulo, de forma que as bicicletas estejam melhor localizadas e o usuário consiga  acessar a mais próxima assim como as empresas posicioná-las melhor. Nesta primeira etapa foi feito um grafo baseado no arquivo  
